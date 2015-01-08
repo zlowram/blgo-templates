@@ -7,15 +7,15 @@ Templates for the [Blgo](http://github.com/zlowram/blgo) blog engine.
 ### blgo-bootstrap-default
 This is Blgo's default theme, 100% bootstrap. Original theme by [@mdo](http://twitter.com/mdo), adapted by [@zlowram_](http://twitter.com/zlowram_).
 
-![alt bootstra-default-index](https://github.com/zlowram/blgo-templates/screenshots/bootstrap-default-index.png "Bootstrap-default index")
-![alt bootstra-default-post](https://github.com/zlowram/blgo-templates/screenshots/bootstrap-default-post.png "Bootstrap-default index")
+![alt bootstra-default-index](https://github.com/zlowram/blgo-templates/blob/master/screenshots/bootstrap-default-index.png "Bootstrap-default index")
+![alt bootstra-default-post](https://github.com/zlowram/blgo-templates/blob/master/screenshots/bootstrap-default-post.png "Bootstrap-default index")
 
 
 ### Asciism
 ASCII based template. Those good old times! Made by [@zlowram_](http://twitter.com/zlowram_).
 
-![alt bootstra-default-index](https://github.com/zlowram/blgo-templates/screenshots/asciism-index.png "asciism index")
-![alt bootstra-default-post](https://github.com/zlowram/blgo-templates/screenshots/asciism-post.png "asciism index")
+![alt bootstra-default-index](https://github.com/zlowram/blgo-templates/blob/master/screenshots/asciism-index.png "asciism index")
+![alt bootstra-default-post](https://github.com/zlowram/blgo-templates/blob/master/screenshots/asciism-post.png "asciism index")
 
 ## How can I write a template?
 
